@@ -1,27 +1,35 @@
-# Hi, there This is RootSprout!
+# Hi, This is Root-Sprout!
 
 **A Coder’s Hub where reinventing the wheel and learning from scratch are prioritized.**
 
 At RootSprout, we believe the best way to truly learn is to **start from the roots** — break things down to their fundamentals, and then **grow** them back up into fully working systems.  
-No shortcuts. No black boxes. Just real understanding.  
 
 
-## 📂 What You’ll Find Here
-- Tutorials and guides that start from the **basics**.  
-- Projects that grow from **low-level building blocks** into **complete systems**.  
-- Open discussions and contributions from a community of curious builders.  
+## 🚀 Projects  
+
+**You can find the educational implementations of the systems. If you have one more feature, contribute to the following projects!**
 
 
-## 🌍 Get Involved
-We welcome contributors who share our vision. Whether you’re:  
-- Writing code 🖥️  
-- Documenting processes 📝  
-- Or simply experimenting 🔬  
+- [**Kira-Kafka**](https://github.com/ROOT-SPROUT/Kira-Kafka)  
+  A lightweight, educational distributed log system in C.  
+  Mimics the core of **Apache Kafka** — topics, partitions, brokers, disk-backed logs, zero-copy reads, memory-mapped I/O, log compression, and thread-to-core mapping.  
 
-…there’s a place for you here!  
+- [**Ge-Git**](https://github.com/ROOT-SPROUT/Ge-Git)  
+  A lightweight **Git implementation in C**.  
+  Supports blob, tree, and commit objects, replicating Git’s internal object storage system.  
 
-Check out our repositories, open issues, and join us in building something from scratch.  
+- [**Cow-Compiler**](https://github.com/ROOT-SPROUT/Cow-Compiler)  
+  A lightweight **compiler** in C for a minimalistic language called **CowLang**.  
+  Compiles CowLang into **LLVM IR**.  
 
+- [**autoNormDB**](https://github.com/ROOT-SPROUT/AutoNormDB)  
+  A lightweight **SQL database engine** built from scratch.  
+  Focuses on **core database fundamentals** and learning how databases work internally.
+
+### **Have your own implementations?**
+- Transfer to ROOT-SPROUT to spread the knowledge.
 ---
 
-✨ **Root to Sprout — Build. Break. Rebuild. Learn.**
+  
+
+## ✨ **Root to Sprout — Build. Break. Rebuild. Learn.**
