@@ -1,7 +1,5 @@
 # Hi, This is Root-Sprout!
 
-**A Coder’s Hub where reinventing the wheel and learning from scratch are prioritized.**
-
 At RootSprout, we believe the best way to truly learn is to **start from the roots** — break things down to their fundamentals, and then **grow** them back up into fully working systems.  
 
 
