@@ -1,4 +1,4 @@
-# Hi, This is Root-Sprout!
+# Hi, This is RootSprout!
 
 At RootSprout, we believe the best way to truly learn is to **start from the roots** — break things down to their fundamentals, and then **grow** them back up into fully working systems.  
 
