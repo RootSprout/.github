@@ -16,10 +16,6 @@ At RootSprout, we believe the best way to truly learn is to **start from the roo
   **Git implementation in C**.  
   Supports blob, tree, and commit objects, replicating Git’s internal object storage system.
 
-- [**Exsh**](https://github.com/RootSprout/Exsh)  
-  A **Unix-like** shell in C.  
-  Implements command parsing, pipes, redirection, and process management using **fork()** and **execvp()**.
-
 - [**Cow-Compiler**](https://github.com/ROOT-SPROUT/Cow-Compiler)  
   A **compiler** in C for a minimalistic language called **CowLang**.  
   Compiles CowLang into **LLVM IR**.  
@@ -27,6 +23,10 @@ At RootSprout, we believe the best way to truly learn is to **start from the roo
 - [**autoNormDB**](https://github.com/ROOT-SPROUT/AutoNormDB)  
   A **SQL database engine** built from scratch.  
   Focuses on **core database fundamentals** and learning how databases work internally.
+
+- [**Exsh**](https://github.com/RootSprout/Exsh)  
+  A **Unix-like** shell in C.  
+  Implements command parsing, pipes, redirection, and process management using **fork()** and **execvp()**.
 
 ### **Have your own implementations?**
 - Transfer to ROOT-SPROUT to spread the knowledge.
