@@ -31,7 +31,14 @@ At RootSprout, we believe the best way to truly learn is to **start from the roo
 ### **Have your own implementations?**
 - Transfer to ROOT-SPROUT to spread the knowledge.
 ---
+## 🚀 Introduce Yourself
 
+Introduce yourselves in the Discussion Guys!
+
+Love to hear about new Ideas, projects, let your thoughts flow and bloom here:)
+
+[**Discussions**](https://github.com/orgs/RootSprout/discussions)
   
+---
 
 ## ✨ **Root to Sprout — Build. Break. Rebuild. Learn.**
