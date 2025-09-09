@@ -2,6 +2,15 @@
 
 At RootSprout, we believe the best way to truly learn is to **start from the roots** — break things down to their fundamentals, and then **grow** them back up into fully working systems.  
 
+## 🚀 Introduce Yourself
+
+Introduce yourselves in the Discussion Guys!
+
+Love to hear about new Ideas, projects, let your thoughts flow and bloom here:)
+
+[**Discussions**](https://github.com/orgs/RootSprout/discussions)
+
+---
 
 ## 🚀 Projects  
 
@@ -30,14 +39,6 @@ At RootSprout, we believe the best way to truly learn is to **start from the roo
 
 ### **Have your own implementations?**
 - Transfer to ROOT-SPROUT to spread the knowledge.
----
-## 🚀 Introduce Yourself
-
-Introduce yourselves in the Discussion Guys!
-
-Love to hear about new Ideas, projects, let your thoughts flow and bloom here:)
-
-[**Discussions**](https://github.com/orgs/RootSprout/discussions)
   
 ---
 
