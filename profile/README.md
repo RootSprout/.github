@@ -37,6 +37,10 @@ Love to hear about new Ideas, projects, let your thoughts flow and bloom here:)
   A **Unix-like** shell in C.  
   Implements command parsing, pipes, redirection, and process management using **fork()** and **execvp()**.
 
+- [**CTP**](https://github.com/RootSprout/CTP)  
+  A **Serial Datalink Transport Protocol** with termios and socat.  
+  Simulates reliable serial communication over **virtual or real serial ports**, with frame creation, CRC error detection, and ACK based retransmission.
+
 ### **Have your own implementations?**
 - Transfer to ROOT-SPROUT to spread the knowledge.
   
