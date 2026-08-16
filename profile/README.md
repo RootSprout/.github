@@ -19,7 +19,12 @@ Love to hear about new Ideas, projects, let your thoughts flow and bloom here:)
 
 - [**Kira-Kafka**](https://github.com/ROOT-SPROUT/Kira-Kafka)  
   A lightweight, educational distributed log system in C.  
-  Mimics the core of **Apache Kafka** — topics, partitions, brokers, disk-backed logs, zero-copy reads, memory-mapped I/O, log compression, and thread-to-core mapping.  
+  Mimics the core of **Apache Kafka** — topics, partitions, brokers, disk-backed logs, zero-copy reads, memory-mapped I/O, log compression, and thread-to-core mapping.
+
+- [**Konnichiwa-Transformer**](https://github.com/RootSprout/Konnichiwa-Transformer)  
+  Reimplementation of "Attention is All you need" Transformer
+  A Transformer that learns **Japanese-to-English** phrase translation from scratch with PyTorch
+  
 
 - [**Ge-Git**](https://github.com/ROOT-SPROUT/Ge-Git)  
   **Git implementation in C**.  
